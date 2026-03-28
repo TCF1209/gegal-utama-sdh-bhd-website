@@ -1,0 +1,29 @@
+{
+  "url": "http://localhost:56957/",
+  "timestamp": "2026-03-28T14:17:10.995Z",
+  "port": 56957,
+  "lighthouse": {
+    "performance": {
+      "score": 100,
+      "pass": true,
+      "level": "warn"
+    },
+    "accessibility": {
+      "score": 97,
+      "pass": true,
+      "level": "error"
+    },
+    "best-practices": {
+      "score": 96,
+      "pass": true,
+      "level": "error"
+    },
+    "seo": {
+      "score": 100,
+      "pass": true,
+      "level": "error"
+    }
+  },
+  "failures": [],
+  "allPass": true
+}
