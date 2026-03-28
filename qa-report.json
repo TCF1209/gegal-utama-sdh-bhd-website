@@ -1,7 +1,7 @@
 {
-  "url": "http://localhost:56957/",
-  "timestamp": "2026-03-28T14:17:10.995Z",
-  "port": 56957,
+  "url": "http://localhost:54701/",
+  "timestamp": "2026-03-28T14:44:08.942Z",
+  "port": 54701,
   "lighthouse": {
     "performance": {
       "score": 100,
